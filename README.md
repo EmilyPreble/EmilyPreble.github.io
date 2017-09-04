@@ -1,4 +1,4 @@
-# The World of Emily Preble.
+# The world of Emily Preble
 ## Evergreens, caffeine, and everything in between. 
 
 ### Welcome to my page!
