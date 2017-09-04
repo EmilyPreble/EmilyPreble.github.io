@@ -9,4 +9,4 @@ Here, you'll find some of my latest work from various classes and outside projec
 ### Infographics
 
 Here, I used Canva to create a brief infographic about the makeup of Lehigh Undergraduate residency. 
-![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographic.png)
+![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographicEdit1.png)
