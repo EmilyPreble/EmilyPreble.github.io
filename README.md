@@ -8,5 +8,5 @@ Here, you'll find some of my latest work from various classes and outside projec
 
 ### Infographics
 
-Here, I used Canva to create a brief infographic about the makeup of Lehigh Undergraduate residency. 
+Here, I used Canva to create a brief infographic about the makeup of Lehigh Undergraduate residency. The data from Lehigh's Office of Institutional Research demonstrated that a majority of undergrads live either in a dorm or off-campus house. 
 ![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographicEdit1.png)
