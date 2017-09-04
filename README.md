@@ -7,4 +7,4 @@ Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I shipped mys
 Here, you'll find some of my latest work from various classes and outside projects. 
 
 ### Infographics
-![Home Sweet Home: Where are Lehigh Undergraduates Living?](https://www.emilypreble.github.io/UndergraduateResidenceInfographic.png)
+![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographic.png)
