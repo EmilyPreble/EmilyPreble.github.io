@@ -1,6 +1,3 @@
-# The world of Emily Preble
-## Evergreens, caffeine, and everything in between. 
-
 ### Welcome to my page!
 
 Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I shipped myself out to Pennsylvania to join the softball team and study journalism here. And I'm loving every minute of it. I spend most of my time with my team, but in my precious minutes alone, I'm usually paging through design inspirations with a steaming cup of coffee in hand. 
