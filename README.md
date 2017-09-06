@@ -9,4 +9,11 @@ Here, you'll find some of my latest work from various classes and outside projec
 ### Infographics
 
 Here, I used Canva to create a brief infographic about the makeup of Lehigh Undergraduate residency. The data from Lehigh's Office of Institutional Research demonstrated that a majority of undergrads live either in a dorm or off-campus house. 
+
 ![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographic.png)
+
+###Timeline
+
+This is a timeline of the 2016 Summer Olympic Games in Rio de Janeiro. The visualization was created with TimelineJS; to view, simply click through the slides and read about the progression of concern to success in the Rio Games. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S_Z2lrVkhSAc6L3s88ydJ9DT3unQPMf3tszMiaXQkTU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
