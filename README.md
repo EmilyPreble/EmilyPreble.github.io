@@ -12,7 +12,7 @@ Here, I used Canva to create a brief infographic about the makeup of Lehigh Unde
 
 ![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographic.png)
 
-###Timeline
+### Timeline
 
 This is a timeline of the 2016 Summer Olympic Games in Rio de Janeiro. The visualization was created with TimelineJS; to view, simply click through the slides and read about the progression of concern to success in the Rio Games. 
 
