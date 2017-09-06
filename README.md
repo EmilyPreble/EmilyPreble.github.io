@@ -17,3 +17,5 @@ Here, I used Canva to create a brief infographic about the makeup of Lehigh Unde
 This is a timeline of the 2016 Summer Olympic Games in Rio de Janeiro. The visualization was created with TimelineJS; to view, simply click through the slides and read about the societal progression of concern to success in the Rio Games. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S_Z2lrVkhSAc6L3s88ydJ9DT3unQPMf3tszMiaXQkTU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jDYRWYWMy1D9ki3qNu581ATBA1UVdDrMJZtOCdkBaOI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
