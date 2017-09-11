@@ -1,9 +1,9 @@
 ![Bio.](GitHub Welcome Edit.jpg)
-Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I shipped myself out to Pennsylvania to join the softball team and study journalism here. And I'm loving every minute of it. I spend most of my time with my team, but in my precious minutes alone, I'm usually paging through design inspirations with a steaming cup of coffee in hand. 
+Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I flew out to Pennsylvania to play the softball team and study journalism here. So far, I'm loving every minute of it. I spend most of my time with my team, but when I'm not playing catch with my favorite group of people, I'm usually paging through design inspirations with a steaming cup of coffee in hand. Feel free to [follow me on instagram](https://www.instagram.com/emilypreble/) to keep up with my newest adventures. 
 
 ![The forest I get to call my backyard.](https://www.thetreecenter.com/wp-content/uploads/evergreen-tre-832x350.jpg)
 
-Here, you'll find some of my latest work from various classes and outside projects. 
+Below, you'll find some of my latest work from various classes and outside projects. 
 
 ### Infographics
 
@@ -41,6 +41,6 @@ Softball has been a part of my life for as long as I can remember. Before I even
 
 **Undergraduate Enrollment Distribution at Lehigh University**
 
-This chart depicts the distribution of Lehigh Undergraduates and was created using a program called Chartbuilder. 
+This chart depicts the distribution of Lehigh Undergraduates per college. Data provided by [Lehigh's Office of Institutional Research](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf). The graphic itself was created on Chartbuilder.  
 
 ![Undergraduate Enrollment Distribution at Lehigh University](EmilyPreble.github.io/Undergraduate_Enrollment_Distribution_at_Lehigh_University_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
