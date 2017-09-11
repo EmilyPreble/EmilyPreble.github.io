@@ -32,7 +32,7 @@ This is a timeline of the 2016 Summer Olympic Games in Rio de Janeiro. The visua
 
 **In a League of Her Own: A glimpse at the career of Dottie Kamenshek**
 
-Softball has been a part of my life for as long as I can remember. Before I even knew how to swing a bat properly, I knew every word to the movie "A League of Their Own." Here is a closer look at the life of Dottie Kamenshek, a loose model for my favorite character, Dottie Hinson. 
+Softball has been a part of my life for as long as I can remember. Before I even knew how to swing a bat properly, I knew every word to the movie "A League of Their Own." Here is a closer look at the life of Dottie Kamenshek, a loose model for my favorite character, Dottie Hinson. Data retrieved from [Brittanica.](https://www.britannica.com/biography/Dorothy-Kamenshek)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jDYRWYWMy1D9ki3qNu581ATBA1UVdDrMJZtOCdkBaOI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
