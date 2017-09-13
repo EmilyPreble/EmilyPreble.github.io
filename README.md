@@ -50,3 +50,9 @@ This chart depicts the distribution of Lehigh Undergraduates per college. Data p
 This chart illustrates the change in percentages of undergraduate enrollment at Lehigh University. Data retrieved from [Lehigh's Office of Institutional Research](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf) and graphic again created on Chartbuilder. 
 
 ![Changes in Lehigh University Undergraduate Enrollment per College per Year](Changes_in_Lehigh_University_Undergraduate_Enrollment_per_College_per_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png)
+
+**Change in the Number of Wins and Losses for the Lehigh Softball Program per Season**
+
+As a member of the Lehigh softball program, I thought it would be interesting to see the fluctuation of wins and losses of my team over the last 10 years. This graph depicts the wins, in blue, and the losses, in red, of the team per season. Data provided by the [NCAA](http://web1.ncaa.org/stats/StatsSrv/careerteamwinloss). 
+
+
