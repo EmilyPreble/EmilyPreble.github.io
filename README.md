@@ -44,3 +44,9 @@ Softball has been a part of my life for as long as I can remember. Before I even
 This chart depicts the distribution of Lehigh Undergraduates per college. Data provided by [Lehigh's Office of Institutional Research](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf). The graphic itself was created on Chartbuilder.  
 
 ![Undergraduate Enrollment Distribution at Lehigh University](EmilyPreble.github.io/Undergraduate_Enrollment_Distribution_at_Lehigh_University_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
+
+**Changes in Lehigh University Undergraduate Enrollment per College per Year**
+
+This chart illustrates the change in percentages of undergraduate enrollment at Lehigh University. Data retrieved from [Lehigh's Office of Institutional Research](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf) and graphic again created on Chartbuilder. 
+
+![Changes in Lehigh University Undergraduate Enrollment per College per Year](Changes_in_Lehigh_University_Undergraduate_Enrollment_per_College_per_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png)
