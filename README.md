@@ -18,7 +18,7 @@ Here, I used Canva to create a brief infographic about the makeup of Lehigh Unde
 
 My love of coffee inspired me to take a closer look at where the USA fell in a list of the top ten coffee consuming nations. As listed by worldatlas.com, we don't even crack the top 10! Nevertheless, the data is interestingly close and divided by cups (a standard 8 ounce cup used for a baseline) of coffee a day each country drinks on average. Canva was again used to design this infographic.
 
-![Bottoms Up: The Top 10 Coffee Consuming Nations](EmilyPreble.github.io/BottomsUpTopTenCoffeeConsumingNations.jpg)
+![Bottoms Up: The Top 10 Coffee Consuming Nations](EmilyPreble.github.io/BottomsUpCoffeeGraphicEdit.png)
 
 
 ### Timelines
