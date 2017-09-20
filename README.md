@@ -34,7 +34,7 @@ This is a timeline of the 2016 Summer Olympic Games in Rio de Janeiro. The visua
 
 Softball has been a part of my life for as long as I can remember. Before I even knew how to swing a bat properly, I knew every word to the movie "A League of Their Own." Here is a closer look at the life of Dottie Kamenshek, a loose model for my favorite character, Dottie Hinson. Data retrieved from [Brittanica.](https://www.britannica.com/biography/Dorothy-Kamenshek)
 
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='1000' frameborder='0'></iframe>
 
 
 ### Charts
