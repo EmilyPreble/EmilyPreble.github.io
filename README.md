@@ -70,4 +70,4 @@ This map displays local Lehigh Valley Art Centers, complete with an address, web
 
 This map shows the Top 5 Division I softball programs in the nation, according to the [NCAA](http://www.ncaa.com/rankings/softball/d1/nfca). Click each star to see the school's ranking, address, link to their website, and a picture of their stadium.
 
-<iframe width="600" height="400" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4%2C+col5+from+1TB54GpMNKEblDOmhrnpYuLfWofBtAgv-VOjwu4ec&amp;containerId=googft-gviz-canvas"></iframe>
+<iframe width="600" height="400" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1TB54GpMNKEblDOmhrnpYuLfWofBtAgv-VOjwu4ec&amp;viz=MAP&amp;h=false&amp;lat=43.113597713893455&amp;lng=-96.18677133749998&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
