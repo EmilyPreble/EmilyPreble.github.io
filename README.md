@@ -60,6 +60,7 @@ As a member of the Lehigh softball program, I thought it would be interesting to
 
 ### Maps
 
+**Mapping Local Lehigh Valley Arts Centers**
 This map displays local Lehigh Valley Art Centers, complete with an address, website URL, and image. Simply click each icon to learn more about each art center.
 
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Lccw3eO7OhOu5-EDChyNy9Qxwy6GqetcvWOGv4fJ&amp;viz=MAP&amp;h=false&amp;lat=40.611763851291606&amp;lng=-75.37083326796875&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
