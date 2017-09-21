@@ -59,11 +59,11 @@ This chart illustrates the change in percentages of undergraduate enrollment at 
 ![Changes in Lehigh University Undergraduate Enrollment per College per Year](Changes_in_Lehigh_University_Undergraduate_Enrollment_per_College_per_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png)
 
 
-**Change in the Number of Wins and Losses for the Lehigh Softball Program per Season**
+**Wins and Losses of the Lehigh Softball Program**
 
-As a member of the Lehigh softball program, I thought it would be interesting to see the fluctuation of wins and losses of my team over the last 10 years. This graph depicts the wins, in blue, and the losses, in red, of the team per season. Data provided by the [NCAA](http://web1.ncaa.org/stats/StatsSrv/careersearch). 
+As a member of the Lehigh softball program, I thought it would be interesting to see the fluctuation of wins and losses of my team over the last 10 years. This graph depicts the wins, in blue, and the losses, in gray, of the team per season from 2007 to 2017. Data provided by the [NCAA](http://web1.ncaa.org/stats/StatsSrv/careersearch). 
 
-![Changes in the Wins and Losses for Lehigh Softball Over the Past Decade](EmilyPreble.github.io/Changes_in_Wins_and_Losses_for_Lehigh_University_Softball_Program_per_Year_Number_of_Wins_on_the_Season_Number_of_Losses_on_the_Season_chartbuilder.png)
+![Changes in the Wins and Losses for Lehigh Softball Over the Past Decade](EmilyPreble.github.io/Wins_and_Losses_of_the_Lehigh_Softball_Team_Number_of_Wins_on_the_Season_Number_of_Losses_on_the_Season_chartbuilder.png)
 
 
 
