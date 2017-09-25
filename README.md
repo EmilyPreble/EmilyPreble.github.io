@@ -82,3 +82,14 @@ This map displays local Lehigh Valley Art Centers, complete with an address, web
 This map shows the Top 5 Division I softball programs in the nation, according to the [NCAA](http://www.ncaa.com/rankings/softball/d1/nfca). Click each star to see the school's ranking, address, link to their website, and a picture of their stadium.
 
 <iframe width="600" height="400" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1TB54GpMNKEblDOmhrnpYuLfWofBtAgv-VOjwu4ec&amp;viz=MAP&amp;h=false&amp;lat=43.113597713893455&amp;lng=-96.18677133749998&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
+
+### Interactive Visualizations
+
+
+**Baby Name Trends in the US, 1910‐2012**
+
+This visualization displays the top baby names in the United STates from 1960 to 2012. You can manipulate the filters on the right hand side of the map to adjust the data by year and by gender. This visualization was created with [Tableau] (https://public.tableau.com/en-us/s/).
+
+<div class='tableauPlaceholder' id='viz1506355234225' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TQ&#47;TQ9Y2MXGF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='2' /> <param name='path' value='shared&#47;TQ9Y2MXGF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TQ&#47;TQ9Y2MXGF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1506355234225');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
