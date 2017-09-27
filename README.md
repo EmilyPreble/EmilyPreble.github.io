@@ -85,7 +85,9 @@ This map shows the Top 5 Division I softball programs in the nation, according t
 
 
 
+
 ### Interactive Visualizations
+
 
 
 **Baby Name Trends in the US, 1910‐2012**
