@@ -1,4 +1,4 @@
-![Bio.](GitHub Welcome Edit.jpg)
+![Bio.](EmilyPreble.github.io/GitHub Welcome Edit PNG.png)
 Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I flew out to Pennsylvania to play on the softball team and study journalism here. So far, I'm loving absolutely every minute of it. I spend most of my time with my team, but when I'm not playing catch with my [favorite group of people](http://lehighsports.com/roster.aspx?path=softball), I'm usually paging through design inspirations with a steaming cup of coffee in hand. Feel free to [follow me on instagram](https://www.instagram.com/emilypreble/) to keep up with my newest adventures. 
 
 ![The forest I get to call my backyard.](https://www.thetreecenter.com/wp-content/uploads/evergreen-tre-832x350.jpg)
