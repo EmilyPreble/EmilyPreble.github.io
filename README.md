@@ -13,7 +13,7 @@ Below, you'll find some of my latest work from various classes and outside proje
 
 This comic strip illustrates a brief glimpse at my life in my visual communications class. It is my first attempt at making a graphic with the website [Pixton.](https://www.pixton.com)
 
-![Comic](EmilyPreble.github.io/pixtoncomic.png)
+![Comic](EmilyPreble.github.io/Screen Shot 2017-10-09 at 12.07.30 PM.png)
 
 
 ### Infographics
