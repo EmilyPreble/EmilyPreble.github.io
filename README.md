@@ -11,7 +11,7 @@ Below, you'll find some of my latest work from various classes and outside proje
 
 **Getting to Know Me with Pixton**
 
-This comic strip illustrates a brief glimpse at my life in my visual communications class. It is my first attempt at making a graphic with the website [Pixton](https://www.pixton.com)
+This comic strip illustrates a brief glimpse at my life in my visual communications class. It is my first attempt at making a graphic with the website [Pixton.](https://www.pixton.com)
 
 ![Comic](EmilyPreble.github.io/pixtoncomic.png)
 
