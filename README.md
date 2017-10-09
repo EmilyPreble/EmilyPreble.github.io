@@ -5,6 +5,17 @@ Hi, I'm Emily, a sophomore at Lehigh University. An Oregon native, I flew out to
 
 Below, you'll find some of my latest work from various classes and outside projects. 
 
+
+### Comics
+
+
+**Getting to Know Me with Pixton**
+
+This comic strip illustrates a brief glimpse at my life in my visual communications class. It is my first attempt at making a graphic with the website [Pixton](https://www.pixton.com)
+
+![Comic](EmilyPreble.github.io/pixtoncomic.png)
+
+
 ### Infographics
 
 
@@ -67,17 +78,6 @@ This visualization displays the chance high school athletes have to make it to t
 
 
 <html>
-<div class='tableauPlaceholder' id='viz1507253582307' style='position: relative'><noscript><a href='#'><img alt='Going all the way: A look at an athlete&#39;s chance to make it to the collegiate level ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAADataSet&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='2' /> <param name='site_root' value='' /><param name='name' value='NCAADataSet&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAADataSet&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1507253582307');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1507564335573' style='position: relative'><noscript><a href='#'><img alt='GOING ALL THE WAY: A LOOK AT AN ATHLETE&#39;S CHANCE TO MAKE IT TO THE COLLEGIATE LEVEL Emily Preble | Data: NCAA.org ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAADataSet_0&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='2' /> <param name='site_root' value='' /><param name='name' value='NCAADataSet_0&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAADataSet_0&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1507564335573');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
  </html>
-
-
-
-### Comics
-
-
-**Getting to Know Me with Pixton**
-
-This comic strip illustrates a brief glimpse at my life in my visual communications class. It is my first attempt at making a graphic with the website [Pixton](https://www.pixton.com)
-
-![Comic](EmilyPreble.github.io/pixtoncomic.png)
 
