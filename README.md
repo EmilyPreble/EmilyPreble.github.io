@@ -16,19 +16,13 @@ This comic strip illustrates a brief glimpse at my life in my visual communicati
 ![Comic](EmilyPreble.github.io/Screen Shot 2017-10-09 at 12.07.30 PM.png)
 
 
+
 ### Infographics
-
-
-**Home Sweet Home: Where are Lehigh Undergraduates Living?**
-
-Here, I used Canva to create a brief infographic about the makeup of Lehigh Undergraduate residency. The data from Lehigh's Office of Institutional Research demonstrated that a majority of undergrads live either in a dorm or off-campus house. 
-
-![Home Sweet Home: Where are Lehigh Undergraduates Living?](EmilyPreble.github.io/UndergraduateResidenceInfographic.png)
 
 
 **Bottoms Up: The Top 10 Coffee Consuming Nations**
 
-My love of coffee inspired me to take a closer look at where the USA fell in a list of the top ten coffee consuming nations. As listed by worldatlas.com, we don't even crack the top 10! Nevertheless, the data is interestingly close and divided by cups (a standard 8 ounce cup used for a baseline) of coffee a day each country drinks on average. Canva was again used to design this infographic.
+My love of coffee inspired me to take a closer look at where the USA fell in a list of the top ten coffee consuming nations. As listed by worldatlas.com, we don't even crack the top 10! Nevertheless, the data is interestingly close and divided by cups (a standard 8 ounce cup used for a baseline) of coffee a day each country drinks on average. Canva was used to design this infographic.
 
 ![Bottoms Up: The Top 10 Coffee Consuming Nations](EmilyPreble.github.io/BottomsUpCoffeeGraphicEdit.png)
 
@@ -42,6 +36,7 @@ My love of coffee inspired me to take a closer look at where the USA fell in a l
 Softball has been a part of my life for as long as I can remember. Before I even knew how to swing a bat properly, I knew every word to the movie "A League of Their Own." Here is a closer look at the life of Dottie Kamenshek, a loose model for my favorite character, Dottie Hinson. Data retrieved from [Brittanica.](https://www.britannica.com/biography/Dorothy-Kamenshek)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1guMGa8lM69UhW0lUCmYIEGY68m-VHApSNV6TjPMO370&font=Default&lang=en&initial_zoom=2&height=1250' width='100%' height='1250' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 
 
 ### Charts
