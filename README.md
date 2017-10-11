@@ -70,6 +70,8 @@ This map shows the Top 5 Division I softball programs in the nation, according t
 
 This visualization displays the chance high school athletes have to make it to the collegiate level. The visualization first depicts each sport, separated and editable by gender, and the amount of high school participants it has. Next to it, the graphic illustrates the number of NCAA participants the respective sport has. The darker the color, the higher the percentage. Further down, you have the ability to click a bar that interests you, or select a specific sport in the sidebar to the right, and see below what percentage of NCAA athletes compete at the Division I, Division II, and Division III levels. On the next page, you can see which sport sends the most athletes to the NCAA, by gender. Data is sourced from the [NCAA](http://www.ncaa.org/about/resources/research/estimated-probability-competing-college-athletics). This visualization was again created with [Tableau](https://public.tableau.com/en-us/s/).
 
+*Click on the full screen mode to see the graphic in its entirety*
+
 
 
 <html>
